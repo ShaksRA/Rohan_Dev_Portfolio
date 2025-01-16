@@ -11,7 +11,8 @@
 
 # Demo :movie_camera:
 
-![image](https://github.com/user-attachments/assets/b98d9fdf-16c4-4b81-a7aa-a150d08abe57)
+![image](https://github.com/user-attachments/assets/a39a6cba-b0c5-469e-bcfa-1d10eae3952d)
+
 
 ## View live preview [here](https://rohan-agarwal-devfolio.netlify.app/)
 
