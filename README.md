@@ -125,13 +125,10 @@ export const personalData = {
   twitter: 'https://twitter.com/rohan221102',
   stackOverflow: 'https://stackoverflow.com/users/16840768/ShaksRA',
   leetcode: "https://leetcode.com/ShaksRA/",
-  devUsername: "ShaksRA",
   resume: "https://drive.google.com/file/d/1FQoDI7AEAhc__aJe-H66-PmRuuBtKGcm/view?usp=sharing"
 };
 
 ```
-
-`devUsername` Used for fetching blog from `dev.to`.
 
 ---
 
