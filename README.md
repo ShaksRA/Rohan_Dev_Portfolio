@@ -11,7 +11,7 @@
 
 # Demo :movie_camera:
 
-![](./public/image/screen.png)
+![image](https://github.com/user-attachments/assets/b98d9fdf-16c4-4b81-a7aa-a150d08abe57)
 
 ## View live preview [here](https://rohanag-portfolio.netlify.app/)
 
